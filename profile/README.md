@@ -14,3 +14,12 @@ Inspired by WordPress, Joomla, and Drupal, we've devised a unified platform to a
 Traditionally, content management systems have served specific needs such as blogging, ecommerce, Events , and booking systems.
 
 However, we've taken a different approach. We've developed each functionality as a separate, decoupled package. These packages can be utilized individually for having that feature and workflow in your Golang web application or can also be used to construct entirely new ones. Our primary focus is on versatility – rather than being confined to one particular business need, our solution caters to a multitude of purposes, providing unparalleled flexibility and adaptability.
+
+## 💖 Support SpurtCMS
+
+SpurtCMS is a modern CMS built in Golang — open-source, fast, and developer-friendly. We're a small but passionate 8-member team building this with our own resources. 
+
+If you love what we're doing, help us build faster and go further. [Become a Sponsor](https://github.com/sponsors/spurtcms) and be part of shaping the future of content management.
+
+☕ Every contribution counts — big or small!
+
